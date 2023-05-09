@@ -184,7 +184,7 @@ nav ul li a:hover::after{
     padding: 7px;
     margin-bottom: 15px;
     border-radius: 5px;
-    
+    width: 150px;
     
  }
  .contact-right form{
